@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Byter-feimao.github.io</id>
     <title>Byter的个人网站</title>
-    <updated>2020-02-23T16:50:41.002Z</updated>
+    <updated>2020-02-23T16:58:59.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Byter-feimao.github.io"/>
     <link rel="self" href="https://Byter-feimao.github.io/atom.xml"/>
@@ -68,7 +68,8 @@ Choose Free</p>
 <p><img src="https://Byter-feimao.github.io/post-images/1582476183216.png" alt="" loading="lazy"><br>
 同步完成后，如果你回到Github上再看，就会发现自己的仓库中多了一堆东西了。</p>
 <h1 id="进入网页">进入网页</h1>
-<p>在浏览器地址栏打入 https://用户名.github.io/ 即可访问你自己的网站了，怎么样，是不是很酷炫，接下来你就可以向你的朋友装逼了（划掉）</p>
+<p>在浏览器地址栏打入 https://用户名.github.io/ 即可访问你自己的网站了，怎么样，是不是很酷炫，接下来你就可以向你的朋友装逼了（划掉）<br>
+本教程提及的仅仅是教你如何搭建出一个简易的个人网站，Gridea有很多方便的功能，可以让你轻松添加评论系统、添加统计系统、实现代码高亮……精力有限，这些功能我不能一一为你们讲解，也希望各位有志青年们能自己多多探索，多搞骚操作，实现更多高级功能，不要停下来啊，GKD！！！</p>
 ]]></content>
     </entry>
     <entry>
