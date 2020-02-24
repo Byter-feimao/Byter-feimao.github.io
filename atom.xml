@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Byter-feimao.github.io</id>
     <title>Byter的个人网站</title>
-    <updated>2020-02-23T17:05:36.741Z</updated>
+    <updated>2020-02-24T01:24:46.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Byter-feimao.github.io"/>
     <link rel="self" href="https://Byter-feimao.github.io/atom.xml"/>
@@ -22,38 +22,38 @@
 <h1 id="注册github">注册Github</h1>
 <p>首先，因为网站是托管在Github Pages上的，所以首先我们要注册一个Github账号（同样，代码也可以托管在Coding Pages中，有兴趣的同学自己尝试，这里只谈用Github Pages的方法）。<br>
 Github：https://github.com/<br>
-<img src="https://Byter-feimao.github.io/post-images/1582472762562.png" alt="" loading="lazy"><br>
+<img src="https://Byter-feimao.github.io/post-images/1582507159452.png" alt="" loading="lazy"><br>
 自上而下依次是：用户名、邮箱、密码</p>
-<p><img src="https://Byter-feimao.github.io/post-images/1582473083829.png" alt="" loading="lazy"><br>
+<p><img src="https://Byter-feimao.github.io/post-images/1582507173524.png" alt="" loading="lazy"><br>
 下一步</p>
-<p><img src="https://Byter-feimao.github.io/post-images/1582473122839.png" alt="" loading="lazy"><br>
+<p><img src="https://Byter-feimao.github.io/post-images/1582507196702.png" alt="" loading="lazy"><br>
 Choose Free</p>
-<p><img src="https://Byter-feimao.github.io/post-images/1582473159241.png" alt="" loading="lazy"><br>
+<p><img src="https://Byter-feimao.github.io/post-images/1582507214828.png" alt="" loading="lazy"><br>
 一些个性化设置，可以直接跳过往下滑</p>
-<p><img src="https://Byter-feimao.github.io/post-images/1582473195575.png" alt="" loading="lazy"><br>
+<p><img src="https://Byter-feimao.github.io/post-images/1582507226534.png" alt="" loading="lazy"><br>
 直接Skip this step跳过</p>
-<p><img src="https://Byter-feimao.github.io/post-images/1582473356059.png" alt="" loading="lazy"><br>
+<p><img src="https://Byter-feimao.github.io/post-images/1582506935952.jpg" alt="" loading="lazy"><br>
 进行邮箱验证</p>
-<p><img src="https://Byter-feimao.github.io/post-images/1582473381639.png" alt="" loading="lazy"><br>
+<p><img src="https://Byter-feimao.github.io/post-images/1582506985364.jpg" alt="" loading="lazy"><br>
 验证完成后就可以开始使用了，第一步完成！</p>
 <h1 id="创建仓库">创建仓库</h1>
 <p>接下来我们要创建一个仓库，用于存放网页代码（放心，不需要你来写代码），点击Start a Project<br>
-<img src="https://Byter-feimao.github.io/post-images/1582473629896.png" alt="" loading="lazy"><br>
+<img src="https://Byter-feimao.github.io/post-images/1582507281811.png" alt="" loading="lazy"><br>
 请注意，Repository name（即仓库名）须按照图示方法填写，即 用户名.github.io（填写你自己注册时使用的用户名），然后直接Create Repository（可以不用像图示一样勾选README）。</p>
 <h1 id="创建令牌">创建令牌</h1>
 <p>顾名思义，令牌就是通行证，有了令牌我们才能在后续的步骤中将我们的代码上传到仓库中<br>
-<img src="https://Byter-feimao.github.io/post-images/1582474365534.png" alt="" loading="lazy"><br>
+<img src="https://Byter-feimao.github.io/post-images/1582507321399.png" alt="" loading="lazy"><br>
 点击左上角的头像，进入设置</p>
-<p><img src="https://Byter-feimao.github.io/post-images/1582474410307.png" alt="" loading="lazy"><br>
-<img src="https://Byter-feimao.github.io/post-images/1582474428092.png" alt="" loading="lazy"><br>
+<p><img src="https://Byter-feimao.github.io/post-images/1582507369772.png" alt="" loading="lazy"><br>
+<img src="https://Byter-feimao.github.io/post-images/1582507395903.png" alt="" loading="lazy"><br>
 选择最下面的Developer settings</p>
-<p><img src="https://Byter-feimao.github.io/post-images/1582474523132.png" alt="" loading="lazy"><br>
+<p><img src="https://Byter-feimao.github.io/post-images/1582507408567.png" alt="" loading="lazy"><br>
 选择Personal access tokens</p>
-<p><img src="https://Byter-feimao.github.io/post-images/1582474620979.png" alt="" loading="lazy"><br>
+<p><img src="https://Byter-feimao.github.io/post-images/1582507422169.png" alt="" loading="lazy"><br>
 接下来，Note栏随便填一下，在下面的Select scopes中勾选repo即可。</p>
-<p><img src="https://Byter-feimao.github.io/post-images/1582474800069.png" alt="" loading="lazy"><br>
+<p><img src="https://Byter-feimao.github.io/post-images/1582507431886.png" alt="" loading="lazy"><br>
 直接Generate token</p>
-<p><img src="https://Byter-feimao.github.io/post-images/1582474846010.png" alt="" loading="lazy"><br>
+<p><img src="https://Byter-feimao.github.io/post-images/1582507443826.jpg" alt="" loading="lazy"><br>
 接下来生成的一串神秘代码（大雾）就是令牌了，复制后记得保存起来，令牌只会出现这一次，丢失的话就只能重新创建了。</p>
 <h1 id="gridea">Gridea</h1>
 <p>接下来就是穷极大杀器登场的时候了！，Gridea可以直接让你使用预制好的网页模版（免去了自己写代码的步骤，当然你想自己创建模版也是可以的）。<br>
@@ -63,45 +63,13 @@ Choose Free</p>
 从侧边栏进入“远程”界面</p>
 <p><img src="https://Byter-feimao.github.io/post-images/1582475582081.png" alt="" loading="lazy"><br>
 按图示配置，域名和仓库名就是 用户名.github,io，邮箱填你注册Github时的邮箱，令牌就是刚刚创建的那串代码，填写完成后先点保存，然后点左下角的检测远程连接。</p>
-<p><img src="https://Byter-feimao.github.io/post-images/1582475727836.png" alt="" loading="lazy"><br>
+<p><img src="https://Byter-feimao.github.io/post-images/1582507135388.jpg" alt="" loading="lazy"><br>
 检测成功后，就可以开始根据模版修改出你自己的网站了，一共有四个内置主题（模版），还有更多模版可以下载。点击预览可以看到网页最后的效果，待修改完成后，点击同步，就可以将个人网站的代码上传刚刚创建好的Github的仓库中了。</p>
 <p><img src="https://Byter-feimao.github.io/post-images/1582476183216.png" alt="" loading="lazy"><br>
 同步完成后，如果你回到Github上再看，就会发现自己的仓库中多了一堆东西了。</p>
 <h1 id="进入网页">进入网页</h1>
 <p>在浏览器地址栏打入 https://用户名.github.io/ 即可访问你自己的网站了，怎么样，是不是很酷炫，接下来你就可以向你的朋友装逼了（划掉）<br>
-本教程提及的仅仅是教你如何搭建出一个简易的个人网站，Gridea有很多方便的功能，可以让你轻松添加评论系统、添加统计系统、实现代码高亮……精力有限，这些功能我不能一一为你们讲解，也希望各位有志青年们能自己多多探索，多搞骚操作，实现更多高级功能，不要停下来啊，GKD！！！</p>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://Byter-feimao.github.io/post/hello-gridea/</id>
-        <link href="https://Byter-feimao.github.io/post/hello-gridea/">
-        </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
-✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...</p>
-<!-- more -->
-<p><a href="https://github.com/getgridea/gridea">Github</a><br>
-<a href="https://gridea.dev/">Gridea 主页</a><br>
-<a href="http://fehey.com/">示例网站</a></p>
-<h2 id="特性">特性👇</h2>
-<p>📝  你可以使用最酷的 <strong>Markdown</strong> 语法，进行快速创作</p>
-<p>🌉  你可以给文章配上精美的封面图和在文章任意位置插入图片</p>
-<p>🏷️  你可以对文章进行标签分组</p>
-<p>📋  你可以自定义菜单，甚至可以创建外部链接菜单</p>
-<p>💻  你可以在 <strong>Windows</strong>，<strong>MacOS</strong> 或 <strong>Linux</strong> 设备上使用此客户端</p>
-<p>🌎  你可以使用 <strong>𝖦𝗂𝗍𝗁𝗎𝖻 𝖯𝖺𝗀𝖾𝗌</strong> 或 <strong>Coding Pages</strong> 向世界展示，未来将支持更多平台</p>
-<p>💬  你可以进行简单的配置，接入 <a href="https://github.com/gitalk/gitalk">Gitalk</a> 或 <a href="https://github.com/SukkaW/DisqusJS">DisqusJS</a> 评论系统</p>
-<p>🇬🇧  你可以使用<strong>中文简体</strong>或<strong>英语</strong></p>
-<p>🌁  你可以任意使用应用内默认主题或任意第三方主题，强大的主题自定义能力</p>
-<p>🖥  你可以自定义源文件夹，利用 OneDrive、百度网盘、iCloud、Dropbox 等进行多设备同步</p>
-<p>🌱 当然 <strong>Gridea</strong> 还很年轻，有很多不足，但请相信，它会不停向前 🏃</p>
-<p>未来，它一定会成为你离不开的伙伴</p>
-<p>尽情发挥你的才华吧！</p>
-<p>😘 Enjoy~</p>
+本教程提及的仅仅是教你如何搭建出一个简易的个人网站，Gridea有很多方便的功能，可以让你轻松添加评论系统、添加统计系统、实现代码高亮……精力有限，这些功能不能一一讲解，也希望各位有志青年们能自己多多探索，多搞骚操作，实现更多高级功能，不要停下来啊，GKD！！！</p>
 ]]></content>
     </entry>
 </feed>
