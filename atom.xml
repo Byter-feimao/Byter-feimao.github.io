@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://Byter-feimao.github.io</id>
-    <title>Byter的个人网站</title>
-    <updated>2020-02-24T09:28:53.765Z</updated>
+    <title>Byter</title>
+    <updated>2020-04-11T03:24:08.262Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://Byter-feimao.github.io"/>
     <link rel="self" href="https://Byter-feimao.github.io/atom.xml"/>
-    <subtitle>普通高中生的个人网站</subtitle>
+    <subtitle>普通高中生的个人站</subtitle>
     <logo>https://Byter-feimao.github.io/images/avatar.png</logo>
     <icon>https://Byter-feimao.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2020, Byter的个人网站</rights>
+    <rights>All rights reserved 2020, Byter</rights>
     <entry>
         <title type="html"><![CDATA[10分钟教你创建个人网站——傻瓜式的网站搭建教学]]></title>
         <id>https://Byter-feimao.github.io/post/10-fen-zhong-jiao-ni-chuang-jian-ge-ren-wang-zhan-sha-gua-shi-de-wang-zhan-da-jian-jiao-xue/</id>
